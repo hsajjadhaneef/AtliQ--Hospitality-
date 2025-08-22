@@ -64,6 +64,8 @@ Atliq faced ₹𝟐𝟗𝟖𝐌 in revenue losses due to cancellations.
 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 → Use historical patterns (e.g., Week 24 peak) to optimize pricing & promotions.
 
 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐦𝐞𝐧𝐭𝐬 → Target underperforming properties with lower ratings for service improvements.
-dahboard ; [dshboard image](https://github.com/hsajjadhaneef/AtliQ--Hospitality-/blob/main/Slide4.PNG)
+[dshboard image](https://github.com/hsajjadhaneef/AtliQ--Hospitality-/blob/main/Slide4.PNG)
+
+
 [View interactive report](https://app.powerbi.com/view?r=eyJrIjoiMDlhY2I5ODAtNGQ5My00MDUwLTkzZTMtYjNmMzFjMTNhNmY5IiwidCI6IjI1YmM2ZDYyLTVmMWEtNDdmZC1hNWM0LTJjMTdlNWUxMmE3YiIsImMiOjl9)
 
