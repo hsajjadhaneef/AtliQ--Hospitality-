@@ -1,6 +1,5 @@
-                                                                     𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐓𝐢𝐭𝐥𝐞:
-                                                                   𝑨𝒕𝒍𝒊𝑸 𝑯𝒐𝒔𝒑𝒊𝒕𝒂𝒍𝒊𝒕𝒚
-
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐓𝐢𝐭𝐥𝐞:
+𝑨𝒕𝒍𝒊𝑸 𝑯𝒐𝒔𝒑𝒊𝒕𝒂𝒍𝒊𝒕𝒚                                                           
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐨𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 𝑨𝒕𝒍𝒊𝒒 𝑮𝒓𝒂𝒏𝒅𝒔, 𝒂 𝒍𝒆𝒂𝒅𝒊𝒏𝒈 𝒏𝒂𝒎𝒆 𝒊𝒏 𝑰𝒏𝒅𝒊𝒂’𝒔 𝒍𝒖𝒙𝒖𝒓𝒚 𝒉𝒐𝒔𝒑𝒊𝒕𝒂𝒍𝒊𝒕𝒚 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒑𝒂𝒔𝒕 𝒕𝒘𝒐 𝒅𝒆𝒄𝒂𝒅𝒆𝒔,
 𝒉𝒂𝒔 𝒓𝒆𝒄𝒆𝒏𝒕𝒍𝒚 𝒃𝒆𝒆𝒏 𝒔𝒕𝒓𝒖𝒈𝒈𝒍𝒊𝒏𝒈 𝒕𝒐 𝒎𝒂𝒊𝒏𝒕𝒂𝒊𝒏 𝒊𝒕𝒔 𝒎𝒂𝒓𝒌𝒆𝒕 𝒔𝒉𝒂𝒓𝒆 𝒂𝒏𝒅 𝒓𝒆𝒗𝒆𝒏𝒖𝒆 𝒅𝒖𝒆 𝒕𝒐 𝒊𝒏𝒕𝒆𝒏𝒔𝒆 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒐𝒏
@@ -65,5 +64,6 @@ Atliq faced ₹𝟐𝟗𝟖𝐌 in revenue losses due to cancellations.
 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 → Use historical patterns (e.g., Week 24 peak) to optimize pricing & promotions.
 
 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐦𝐞𝐧𝐭𝐬 → Target underperforming properties with lower ratings for service improvements.
+dahboard ; [dshboard image](https://github.com/hsajjadhaneef/AtliQ--Hospitality-/blob/main/Slide4.PNG)
 [View interactive report](https://app.powerbi.com/view?r=eyJrIjoiMDlhY2I5ODAtNGQ5My00MDUwLTkzZTMtYjNmMzFjMTNhNmY5IiwidCI6IjI1YmM2ZDYyLTVmMWEtNDdmZC1hNWM0LTJjMTdlNWUxMmE3YiIsImMiOjl9)
 
